@@ -1,0 +1,8 @@
+.tile--candidates{
+	width: 10em;
+	height: 17em;
+}
+
+.tile--candidates .tile__body {
+	height:5em;
+}
